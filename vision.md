@@ -6,7 +6,10 @@ Problem: Są projekty grupowe, nowi studenci się nie znają (z charakteru, umie
 Rozwiązanie: Stworzenie agenta AI który zaproponuje możliwe podziały na zespoły na podstawie kompatybilności charakterów oraz uzupełniających się umiejętności.
 
 Problemy z pomysłem: 
--kto jest użytkownikiem
--z kąd są dane na podstawie są podziały
+1.kto jest użytkownikiem
+2.z kąd są dane do podziałów
 
-Inne zastosowania: dział HR w firmie 
+Inne zastosowania: dział HR w firmie (możliwe że lepsze bo rozwiązuje problem 
+1. użytkownik to HR/firma 
+2. dane są z CV, performance review
+oraz ma zastosowanie do przesiewania CV w przypadku zatrudniania nowy pracowników do zespołów)
