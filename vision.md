@@ -1,15 +1,29 @@
-Lepiej dopasowany zespół pod specyficzne zadanie. 
+# Lepiej dopasowany zespół pod specyficzne zadanie
 
+## Problem
 
-Problem: Są projekty grupowe, nowi studenci się nie znają (z charakteru, umiejętności) więc mogą mieć problem z dobraniem się w grupy.
+Są projekty grupowe, a nowi studenci się nie znają — nie wiedzą, jaki jest charakter, poziom umiejętności czy mocne strony innych osób. Mogą więc mieć problem z odpowiednim dobraniem się w grupy.
 
-Rozwiązanie: Stworzenie agenta AI który zaproponuje możliwe podziały na zespoły na podstawie kompatybilności charakterów oraz uzupełniających się umiejętności.
+## Rozwiązanie
 
-Problemy z pomysłem: 
-1.kto jest użytkownikiem
-2.z kąd są dane do podziałów
+Stworzenie agenta AI, który zaproponuje możliwe podziały na zespoły na podstawie:
 
-Inne zastosowania: dział HR w firmie (możliwe że lepsze bo rozwiązuje problem 
-1. użytkownik to HR/firma 
-2. dane są z CV, performance review
-oraz ma zastosowanie do przesiewania CV w przypadku zatrudniania nowy pracowników do zespołów)
+- kompatybilności charakterów,
+- uzupełniających się umiejętności,
+- predyspozycji poszczególnych osób do danego zadania.
+
+## Problemy z pomysłem
+
+1. **Kto jest użytkownikiem?**
+2. **Skąd pochodzą dane potrzebne do podziału na zespoły?**
+
+## Inne zastosowania
+
+### Dział HR w firmie
+
+Pomysł może mieć lepsze zastosowanie w dziale HR, ponieważ rozwiązuje oba powyższe problemy:
+
+1. **Użytkownik:** dział HR lub firma.
+2. **Dane:** CV, performance review oraz inne informacje dotyczące pracowników.
+
+Dodatkowo agent mógłby być wykorzystany do **przesiewania CV** podczas rekrutacji nowych pracowników i dobierania kandydatów do konkretnych zespołów.
