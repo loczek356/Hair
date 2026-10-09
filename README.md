@@ -1,8 +1,8 @@
 # Hair
 Ai backend project
 
-Autorzy:
-Michał Mueller
-Jakub Motyka 
-Kazimierz Krześniak
+Autorzy:  
+Michał Mueller  
+Jakub Motyka  
+Kazimierz Krześniak  
 
