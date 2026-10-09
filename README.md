@@ -1,5 +1,5 @@
 # Hair
-Ai backend project
+project with agent on the backend 
 
 Autorzy:  
 Michał Mueller  
